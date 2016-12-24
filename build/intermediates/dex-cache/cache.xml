@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/len/AndroidStudioProjects/android_TabLayout_utile/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94fc0d2427c7d7646c79912f925ad7c9b1867441">
+        <dex dex="/Users/len/AndroidStudioProjects/android_TabLayout_utile/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e9aa6dd553e6e1f2c36676d901c4f5331df103ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/len/AndroidStudioProjects/android_TabLayout_utile/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/len/AndroidStudioProjects/android_TabLayout_utile/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_8ae4a3edfbae6c84dd3dcb4b854d6e43e31c4bb3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/len/AndroidStudioProjects/android_TabLayout_utile/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/len/AndroidStudioProjects/android_TabLayout_utile/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_c03a333eb2add5585800e85f057b538d2a8003b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/len/AndroidStudioProjects/android_TabLayout_utile/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/len/AndroidStudioProjects/android_TabLayout_utile/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_be26b0c8226d6946db2cdac8e3f48f0da0ddd8fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/len/AndroidStudioProjects/android_TabLayout_utile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/len/AndroidStudioProjects/android_TabLayout_utile/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_c203cead7056faf694300de850b10b776731a1c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/len/AndroidStudioProjects/android_TabLayout_utile/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/len/AndroidStudioProjects/android_TabLayout_utile/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_efaf7c1186844e35d8812cad3286c1d09cddbaff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/len/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/len/AndroidStudioProjects/android_TabLayout_utile/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_c1a2c49aa59cb047eb3444709060a6a049b9455b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/len/AndroidStudioProjects/android_TabLayout_utile/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/len/AndroidStudioProjects/android_TabLayout_utile/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_4ed8bc86b6bc396f79a8db89a091ca201b13a31c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/len/AndroidStudioProjects/android_TabLayout_utile/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d97b905aa10587c194bcbfbd28ea52b63a7f8f82">
+        <dex dex="/Users/len/AndroidStudioProjects/android_TabLayout_utile/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2585f845668f48e7a263d20c5addde7ed1287696/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/len/AndroidStudioProjects/android_TabLayout_utile/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/Users/len/AndroidStudioProjects/android_TabLayout_utile/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.4.0_6523d43ac5c6844fd498efdbf854632000f247f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/len/AndroidStudioProjects/android_TabLayout_utile/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/len/AndroidStudioProjects/android_TabLayout_utile/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_bdbbf45e337009a49fb730505b34f02bbb284575/classes.dex" />
+    </item>
+
+</items>
